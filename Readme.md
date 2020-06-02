@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Sergey Lyapin](https://up.htmlacademy.ru/javascript/20/user/522427).
-* Наставник: `Неизвестно`.
+* Наставник: [Sergey Lyapin](https://up.htmlacademy.ru/javascript/20/user/522427).
 
 ---
 
